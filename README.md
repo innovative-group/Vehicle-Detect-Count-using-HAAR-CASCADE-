@@ -10,10 +10,9 @@ In this project, we will be using
     iii> HAAR CASCADE algorithm
     
 ## Demo
+https://raw.githubusercontent.com/innovative-group/Vehicle-Detect-Count-using-HAAR-CASCADE-/main/gif%20img%20for%20vehicle%20detect%20%26%20count.gif
 
-Insert gif or link to demo
 
-![gif img for vehicle detect   count](https://github.com/innovative-group/Vehicle-Detect-Count-using-HAAR-CASCADE-/assets/51012877/6e7cbaac-997c-47b6-b8cb-81daf3fcf3c3
 ## 🚀 About Me
 
 Allow me to introduce Arjun Sherpa, an enthusiastic individual with a passion for ML, Deep Learning, Data Science, and computational neuroscience. Arjun's passion for computational neuroscience reflects their interest in understanding the intricate workings of the brain. 
