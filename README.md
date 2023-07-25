@@ -3,11 +3,6 @@
 
 It is a simple machine learning-based vehicle detection and counting program which simply detect and will count the number of vehicle(i.e Car & bus) which are present in our image.
 
-In this project, we will be using i> Google CoLab, ii> OpenCV, iii> HAAR CASCADE algorithm
-
-
-It is a simple machine learning-based vehicle detection and counting program which simply detect and will count the number of vehicle(i.e Car & bus) which are present in our image.
-
 In this project, we will be using 
     i> Google CoLab,
     ii> OpenCV,
